@@ -2,7 +2,7 @@
   <img width = "400" src = "https://credistar.com.br/wp-content/uploads/2020/09/fundo-branco.png">
 </p>
 
-# Teste de contratação de front-end # Credistar
+# Teste de contratação de front-end Credistar
 
 Certifique-se de ler todas as instruções cuidadosamente e seguir as orientações abaixo. Este teste deve levar de 1 a 2 dias, dependendo de sua experiência.
 
