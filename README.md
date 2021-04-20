@@ -4,7 +4,7 @@
 
 # Teste de contratação de front-end # Credistar
 
-Certifique-se de ler todas as instruções cuidadosamente e seguir as orientações abaixo. Este teste deve levar de 1 a 2 dias, dependendo de sua experiência.
+Certifique-se de ler todas as instruções cuidadosamente e seguir as orientações abaixo. Este teste deve levar de 1 a 3 dias, dependendo de sua experiência.
 
 ## Contexto
 
