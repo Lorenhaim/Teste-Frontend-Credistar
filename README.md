@@ -1,5 +1,5 @@
 <p align = "left">
-  <img width = "400" height = "140" src = "https://credistar.com.br/wp-content/uploads/2020/09/fundo-branco.png">
+  <img width = "400" src = "https://credistar.com.br/wp-content/uploads/2020/09/fundo-branco.png">
 </p>
 
 # Teste de contratação de front-end # Credistar
