@@ -31,8 +31,6 @@ Todas as telas estão disponíveis no [arquivo fonte] (https://www.figma.com/fil
 
 O logotipo da Credistar está anexado a este repositório.
 
-** Importante: se ainda não o fez, inscreva-se para obter uma conta Figma gratuita e faça login, para que possa inspecionar o design. **
-
 ! [Credistar-frontend-test] (https://user-images.githubusercontent.com/961898/95204778-d60c4b80-07e4-11eb-818c-eb3a3516e289.png)
 
 ## O que você precisa fazer
