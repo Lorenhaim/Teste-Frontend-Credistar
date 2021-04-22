@@ -29,17 +29,16 @@ A lista de participantes pode ser filtrada em 3 segmentos diferentes:
 
 Todas as telas estão disponíveis no [arquivo fonte] (https://www.figma.com/file/VRtAKaTOEoobKmAKVWFp2P/Figma-front-end-test?node-id=1%3A42).
 
-O logotipo da Credistar está anexado a este repositório.
-
 ! [Credistar-frontend-test] (https://user-images.githubusercontent.com/961898/95204778-d60c4b80-07e4-11eb-818c-eb3a3516e289.png)
 
 ## O que você precisa fazer
 
 Para concluir o teste, ** você precisará **:
 
-- Crie o projeto Vue CLI do zero
+- Crie o projeto Vue ou qualquer outra tecnologia
 - Escreva o aplicativo
 - Estar o mais próximo possível das telas.
+- Tente seu melhor :)
 
 ## Sugestão de tecnologia
 
