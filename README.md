@@ -40,16 +40,6 @@ Para concluir o teste, ** você precisará **:
 - Estar o mais próximo possível das telas.
 - Tente seu melhor :)
 
-## Sugestão de tecnologia
-
-Algumas tecnologias / bibliotecas ** devem ser usadas ** para construir o aplicativo:
-
-- Vue.js
-- [Tailwind CSS] (https://tailwindcss.com/)
-- [vue-feather-icons] (https://github.com/egoist/vue-feather-icons) (para ícones)
-- vue-test-utils
-- ESLint
-
 ## API (Opcional)
 
 ### A Api abaixo é um passo extra. Você pode usar variaveis estaticas ou arquivos .json no seu projeto!
