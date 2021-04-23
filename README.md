@@ -4,7 +4,7 @@
 
 # Teste de contratação de front-end Credistar
 
-Certifique-se de ler todas as instruções cuidadosamente e seguir as orientações abaixo. Este teste deve levar de 1 a 2 dias, dependendo de sua experiência.
+Certifique-se de ler todas as instruções cuidadosamente e seguir as orientações abaixo. Este teste deve levar de 2 a 3 dias, dependendo de sua experiência.
 
 ## Contexto
 
@@ -13,9 +13,9 @@ Você acabou de terminar seu primeiro webinar com a Credistar! Muitos participan
 O objetivo deste teste é codificar um pequeno aplicativo Vue.js responsivo que permite:
 
 - Listar participantes
-- Filtrar participantes com dois segmentos (veja abaixo)
-- Exibir uma visão detalhada de um participante
-- Convide alguém (adicione um novo participante)
+- Opcional: Filtrar participantes com dois segmentos (veja abaixo)
+- Opcional: Exibir uma visão detalhada de um participante
+- Opcional: Convide alguém (adicione um novo participante)
 
 ### Segmentos
 
